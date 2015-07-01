@@ -1,4 +1,4 @@
-# Ali2015-MobileRecommendation
+# Ali2015 - MobileRecommendation
 Ali Mobile Recommendation Algorithm Competition - http://tianchi.aliyun.com/competition/introduction.htm
 
 0. Download the data as described in `./data_1/README.md` and/or `./data_2/README.md`.
@@ -9,7 +9,7 @@ Ali Mobile Recommendation Algorithm Competition - http://tianchi.aliyun.com/comp
 
 ----
 
-The best single GBDT model can be obtained from `TianChi3/main_single_model.py` has F1 score around 10.4%, which can rank about 100 in Season 1.
+The best single GBDT model can be obtained from `TianChi3/main_single_model.py` has F1 score around **10.4%**, which can rank about **100** in Season 1.
 
 ----
 
